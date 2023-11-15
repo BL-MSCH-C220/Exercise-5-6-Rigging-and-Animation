@@ -49,4 +49,5 @@ menu={
 
 [rendering]
 
+renderer/rendering_method="gl_compatibility"
 environment/default_environment="res://default_env.tres"
